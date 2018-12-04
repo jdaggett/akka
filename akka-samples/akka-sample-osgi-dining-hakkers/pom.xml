@@ -12,7 +12,7 @@
         <akka.version>2.5-SNAPSHOT</akka.version>
         <!-- Support for eecap-1.8 (Java 8) is from 3.0.2 -->
         <!-- https://github.com/apache/karaf/blob/karaf-3.0.2/assemblies/features/framework/src/main/filtered-resources/resources/etc/config.properties -->
-        <karaf.version>3.0.8</karaf.version>
+        <karaf.version>4.0.8</karaf.version>
         <karaf.tooling.exam.version>2.3.12</karaf.tooling.exam.version>
         <karaf.tooling.maven.version>2.4.4</karaf.tooling.maven.version>
         <netty.version>3.10.5.Final</netty.version>
@@ -20,7 +20,7 @@
         <paxexam.version>2.6.0</paxexam.version>
         <paxswissbox.version>1.6.0</paxswissbox.version>
         <protobuf.version>2.5.0</protobuf.version>
-        <scala.version>2.11.7</scala.version>
+        <scala.version>2.11.12</scala.version>
         <scala.dep.version>2.11</scala.dep.version>
         <typesafe.config.version>1.3.0</typesafe.config.version>
         <leveldb.version>0.7</leveldb.version>
